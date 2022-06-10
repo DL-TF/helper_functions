@@ -7,7 +7,7 @@
       "provenance": [],
       "collapsed_sections": [],
       "authorship_tag": "ABX9TyOv7GHhYeYLYC0lF0MkKPXj",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
